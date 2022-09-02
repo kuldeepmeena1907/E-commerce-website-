@@ -1,0 +1,49 @@
+.logo_a {
+  width: 100px;
+  object-fit: contain;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.login {
+  background-color: white;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.container_log {
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  border: 1px solid lightgray;
+}
+.si {
+  font-weight: 500;
+  margin-bottom: 20px;
+}
+.h55 {
+  margin-bottom: 5px;
+}
+.ip {
+  height: 30px;
+  margin-bottom: 10px;
+  background-color: white;
+  width: 98%;
+}
+.dis {
+  margin-top: 15px;
+  font-size: 12px;
+}
+.sip {
+  background-color: #f0c14b;
+  border-radius: 2px;
+  width: 100%;
+  height: 30px;
+  border: 1px solid;
+  margin-top: 10px;
+  border-color: #a88734 #9c7e31 #846a29;
+}
+.reg {
+  margin-top: 8px;
+}

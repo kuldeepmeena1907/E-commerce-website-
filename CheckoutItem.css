@@ -1,0 +1,28 @@
+.checkI {
+  display: flex;
+  border-top: 1px solid lightgray;
+  border-bottom: 1px solid lightgray;
+}
+.imgg {
+  object-fit: contain;
+  width: 180px;
+  height: 180px;
+}
+.infoI {
+  padding: 20px;
+}
+.btnI {
+  background-color: #f0c14f;
+  border: 1px solid;
+  margin-top: 10px;
+  border-color: #a88734 #9c7e31 #864a29;
+  margin-top: 20px;
+}
+.rateI {
+  display: flex;
+  margin-top: 10px;
+}
+.check_t {
+  font-size: 20px;
+  font-weight: 800;
+}

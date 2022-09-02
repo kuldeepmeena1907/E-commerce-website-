@@ -1,0 +1,19 @@
+.orders {
+  display: grid;
+  place-items: center;
+  background-color: white;
+  margin-left: 300px;
+  margin-top: 100px;
+  width: 700px;
+  height: 300px;
+}
+.order_btn {
+  background-color: red !important;
+  color: white !important;
+  font-weight: 700 !important;
+  font-size: 15px !important;
+}
+.order_btn:hover {
+  background-color: lightgray !important;
+  color: black !important;
+}
